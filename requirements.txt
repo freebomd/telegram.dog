@@ -24,7 +24,6 @@ requests==2.25.1
 six==1.15.0
 soupsieve==2.1
 template==0.6.2
-tg==0.7.0
 toml==0.10.2
 tornado==6.1
 tzlocal==2.1
